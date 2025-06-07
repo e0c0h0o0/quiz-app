@@ -1,6 +1,6 @@
-## ✨ Project Update Summary
+## Project Update Summary
 
-### 👤 User-Side Enhancements
+### User-Side Enhancements
 
 1. **Navigation Bar Integration**
    - A dynamic `navbar.jsp` has been added.
